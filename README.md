@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## Wahyu Laksono Saputra || 362358302107
 
-This project is a starting point for a Flutter application.
+# Soal 12
+1. Number Stream :
+    - Seperti mesin yang terus-menerus mengocok dadu
+    - Setiap detik, mesin akan mengeluarkan satu angka random antara 0-9
+    - Mesin ini tidak berhenti, terus berputar
 
-A few resources to get you started if this is your first Flutter project:
+2. StreamBuilder:
+    - Seperti layar digital yang selalu menunjukkan angka terbaru
+    - Ketika mesin mengeluarkan angka baru, layar langsung berubah
+    - Ukuran angka sangat besar agar mudah dilihat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Soal 12](<assets/Screenshot (530).png>)
+![Soal 12](<assets/Screenshot (531).png>)
